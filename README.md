@@ -1,5 +1,4 @@
-<img width="1903" height="932" alt="image" src="https://github.com/user-attachments/assets/7b05467a-9378-4624-a710-258bdb70281b" /># MindList
-
+# MindList 
 MindList是一款把「思维导图」和「任务清单」结合在一起的工具。你可以一边梳理结构，一边管理执行进度。
 
 本项目基于https://github.com/wanglin2/mind-map mind-map基础上进行二次开发！
