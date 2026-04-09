@@ -4,9 +4,9 @@ MindList是一款把「思维导图」和「任务清单」结合在一起的工
 
 ## 立即使用
 
-- 在线网页版（直接打开）：https://vuhthj685.github.io/new/
-- 安装包下载（Windows）：https://github.com/vuhthj685/new/releases/latest
-- 项目仓库：https://github.com/vuhthj685/new
+- 在线网页版（直接打开）：https://vuhthj685.github.io/MindList/
+- 安装包下载（Windows）：https://github.com/vuhthj685/MindList/releases/latest
+- 项目仓库：https://github.com/vuhthj685/MindList
 
 ## 3 步开始
 
